@@ -25,7 +25,7 @@ The project brings together interactive mini-games, perception challenges, scori
 
 ## 🚀 Play the Game
 
-**Live Website:** https://mastercraft17.github.io/lumosity/
+**Live Website:** https://mastercraft17.github.io/LUMOSITY/
 
 ## 📌 Project Status
 
